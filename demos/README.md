@@ -1,3 +1,6 @@
 # Demos
 
 - [Ping Me: Command Injection](./pingme/)
+- [Web Interaction](./web-interaction/)
+- [Pwntools](./pwntools/)
+- [Privilege Escalation](./privilege-escalation/)
