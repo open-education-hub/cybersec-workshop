@@ -1,6 +1,6 @@
 # Peas in a Pod
 
-You have on you our hands an `authorized_keys` file that will get you access via SSH to the remote system `141.84.224.104` on port `34622` with the user `ctf`.
+You have on you our hands an `authorized_keys` file that will get you access via SSH to the remote system `141.85.224.104` on port `34622` with the user `ctf`.
 Get the flag and submit it on the [CTF platform](https://workshop-ctf.security.cs.pub.ro/challenges).
 
 ## Walkthrough
