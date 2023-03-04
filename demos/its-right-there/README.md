@@ -1,9 +1,18 @@
 # It's Right There
 
-Access the `141.84.224.104` system via SSH on port `34522` using the credentials `ctf:n0p422w0rd`.
+Access the `141.85.224.104` system via SSH on port `34522` using the credentials `ctf:n0p422w0rd`.
 Get the flag and submit it on the [CTF platform](https://workshop-ctf.security.cs.pub.ro/challenges).
 
 ## Walkthrough
+
+We use the command below to log in to the system (the password is `n0p422w0rd`):
+
+```console
+$ ssh ctf@141.85.224.104 -p 34522
+ctf@141.85.224.104's password:
+
+ctf@6945c409945f:~$
+```
 
 After logging in, you see the flag in the home directory of the `ctf` user, i.e. `/home/ctf`:
 
