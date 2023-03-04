@@ -4,5 +4,6 @@
 - [Web Interaction](./web-interaction/)
 - [Pwntools](./pwntools/)
 - [Privilege Escalation](./privilege-escalation/)
+- [Forensics](./forensics/)
 - [It's Right There](./its-right-there/)
 - [Peas in a Pod](./peas-in-a-pod/)
