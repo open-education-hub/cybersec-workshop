@@ -30,3 +30,7 @@ Wrote static site to _site
 Start with the [Demos](./demos/).
 
 Then solve the [Challenges](./challenges/).
+
+Submit flags on the [CTF Platform](https://workshop-ctf.security.cs.pub.ro/).
+You need to register an account.
+Then see the [scoreboard](https://workshop-ctf.security.cs.pub.ro/scores) as you submit flags.
