@@ -2,9 +2,9 @@
 
 - [Pwn](./pwn/)
 - [Pwn: Hit Me Hard](./pwn-hit-me-hard/)
-- [Ping Me: Command Injection](./pingme/)
-- [Web Interaction](./web-interaction/)
+- [Web](./web/)
+- [Web: Ping Me](./web-ping-me/)
 - [Forensics](./forensics/)
-- [It's Right There](./its-right-there/)
+- [Forensics: It's Right There](./forensics-its-right-there/)
 - [Crypto](./crypto/)
-- [Peas in a Pod](./peas-in-a-pod/)
+- [Crypto: Peas in a Pod](./crypto-peas-in-a-pod/)
