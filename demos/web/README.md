@@ -1,10 +1,10 @@
-# Web Interaction
+# Web
 
-Vom Discuta următoarele concepte:
+Topics of discussion:
 
 - Web Proxy (Burp)
 - Developer Console
-- Parametrii URL vs Payload POST
-- Headere HTTP
-- Sursa Paginii
+- Web parameters: GET vs POST
+- HTTP headers
+- Page source
 - PHP
