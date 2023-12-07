@@ -9,9 +9,11 @@ revealOptions:
 
 # CyberSecurity Workshop
 
-Career Talks (by LSAC)
+Cybsersecurity Education
 
-March 4, 2023
+Part of ICE Joint Master Program
+
+December 7, 2023
 
 Faculty of Automatic Control and Computers, UPB
 
@@ -21,7 +23,7 @@ Faculty of Automatic Control and Computers, UPB
 
 - Linux system, native or virtual machine
   - https://www.kali.org/
-- Repository: https://github.com/systems-cs-pub-ro/quick-cybersec-workshop-ctf
+- Repository: https://github.com/open-education-hub/cybersec-workshop
 - CTF Platform: https://workshop-ctf.security.cs.pub.ro
 
 ---
@@ -58,9 +60,10 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 - team effort
 - jeopardy or attack-defense
 - https://ctftime.org/
-- ACS IXIA CTF, April 8-9, 2023
-- Security Summer School, June 26 - July 30, 2023
-  - https://security.cs.pub.ro/summer-school/wiki/
+- CTF USV, DefCamp CTF
+- ACS IXIA CTF, spring 2024
+- Security Summer School, summer 2024
+  - https://security-summer-school.github.io/
 
 ----
 
@@ -91,8 +94,8 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 - Exploit software vulnerabilities
 - Exploit hardware vulnerabilities
 - Exploit misconfigurations
-- RCE (Remote Code Execution)
-- PrivEsc (Privilege Escalation)
+- RCE (_Remote Code Execution_)
+- PrivEsc (_Privilege Escalation_)
 
 ----
 
@@ -107,9 +110,9 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 
 ### Demo
 
-- Hit me Hard
-- connect remote to SSH
-- privilege escalation
+- **Hit me Hard** challenge
+- Connect remotely to SSH
+- Privilege escalation
 
 ---
 
@@ -140,8 +143,8 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 
 ### Demo
 
-- pingme
-- command injection
+- **Ping Me** challenge
+- Command injection
 
 ---
 
@@ -170,7 +173,7 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 
 ### Demo
 
-- It's Right There
+- **It's Right There** challenge
 - Look for configuration information, think sudo
 - Use the discovered information
 - Hashed information **may** be revealed with [CrackStation](https://crackstation.net/)
@@ -204,7 +207,7 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 
 ### Demo
 
-- Peas in a Pod
+- **Peas in a Pod** challenge
 - RSA public key
 - Find components of RSA algorithm
 - Recreate private key
