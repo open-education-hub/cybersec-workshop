@@ -9,13 +9,11 @@ revealOptions:
 
 # CyberSecurity Workshop
 
-Cybsersecurity Education
+LSAC Career Talks
 
-Part of ICE Joint Master Program
+March 3, 2024
 
-December 7, 2023
-
-Faculty of Automatic Control and Computers, UPB
+Faculty of Automatic Control and Computers, UPB, room EC101
 
 ----
 
@@ -25,6 +23,7 @@ Faculty of Automatic Control and Computers, UPB
   - https://www.kali.org/
 - Repository: https://github.com/open-education-hub/cybersec-workshop
 - CTF Platform: https://workshop-ctf.security.cs.pub.ro
+- OpenEdu Discord Server: https://bit.ly/OpenEduHub
 
 ---
 
@@ -48,6 +47,30 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 - The number of unfilled cybersecurity jobs worldwide grew 350% between 2013 and 2021, from 1 million to 3.5 million, according to Cybersecurity Ventures.
 - The industry researcher also predicts that in five years, the same number of jobs will still be open.
 
+----
+
+### Education
+
+- Cybersecurity classes
+- Online cybersecurity courses
+- https://cyber-edu.co/
+- Cybersecury certifications: CISSP, OSCP, CEH
+- Master programs:
+  - Advanced Cybersecurity (AC / SAS)
+  - Security of complex computer networks (SRIC)
+  - Digital4SECURITY project: https://info.digital4security.eu/launch/
+
+
+----
+
+### Events
+
+- Defcon
+- BlackHat
+- Hack In The Box (HITB)
+- "Big 4" (research conferences): ACM CCS, IEEE S&P (Oakland), NDSS, USENIX Security Symposium
+- **Ro**: DefCamp, Bucharest Cybersecurity Conference, CyberCon Romania
+
 ---
 
 ## CTF
@@ -60,9 +83,10 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 - team effort
 - jeopardy or attack-defense
 - https://ctftime.org/
-- CTF USV, DefCamp CTF
-- ACS IXIA CTF, spring 2024
-- Security Summer School, summer 2024
+- European Cybersecurity Challenge
+- **Ro**: CTF USV, DefCamp CTF, UNbreakable
+- ACS Keysight CTF, April 20-21, 2024
+- Security Summer School, June 24 - July 28, 2024
   - https://security-summer-school.github.io/
 
 ----
@@ -220,3 +244,12 @@ https://fortune.com/education/business/articles/2022/06/30/companies-are-despera
 - CTF Platform: https://workshop-ctf.security.cs.pub.ro
 - You need an account
 - Get flag, submit, get points
+
+---
+
+## What Now?
+
+- Stay in school!
+- CTFs & wargames
+- Attend events
+- Internships, projects, jobs
